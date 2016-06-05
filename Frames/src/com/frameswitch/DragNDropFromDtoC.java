@@ -67,6 +67,10 @@ public class DragNDropFromDtoC {
        
        
     }
+    @Test
+    public void newMethod(){
+    	System.out.println("new methods");
+    }
 
     
 
