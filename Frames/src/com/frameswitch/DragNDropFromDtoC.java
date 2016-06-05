@@ -61,8 +61,8 @@ public class DragNDropFromDtoC {
         driver.switchTo().frame(iframeB);
         driver.switchTo().defaultContent();
        
-        String gt=driver.getTitle();
-        System.out.println(gt);
+        String getTitle=driver.getTitle();
+        System.out.println(getTitle);
        
        
        
